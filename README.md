@@ -43,6 +43,9 @@ Several cities exhibit high congestion combined with low GDP per capita, indicat
 Cities with lower travel delays tend to show higher economic productivity.
 Traffic delay metrics show a stronger relationship with productivity than congestion volume alone.
 
+<img width="1637" height="599" alt="image" src="https://github.com/user-attachments/assets/af0b8caf-c002-4661-8d63-3cf223d4422b" />
+
+
 ## Business Impact
 
 Identified priority cities for transport and mobility investment
